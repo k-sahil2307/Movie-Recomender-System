@@ -1,0 +1,5 @@
+1. Download the datasets into the Jupyter notebook project directory.
+2. Run the notebook. This will combine the datasets and build the models.
+3. The notebook will automatically create a file named `similarity.pkl` (note: this file is not attached here).
+4. Create a project in PyCharm and copy `similarity.pkl` to the project folder.
+5. Run `app.py` through the terminal by typing `streamlit run app.py`.
